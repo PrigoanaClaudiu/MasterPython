@@ -1,7 +1,7 @@
 # reversed() return iterator 
 
 def pali(text):
-    if text == text[::-1]:
+    if text == text[::-1]:  # list comprehension (deUNDE:panUNDE:cuCat)
         return True
     else:
         return False

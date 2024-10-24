@@ -21,3 +21,4 @@ minimV = min(numbers)
 maximV = max(numbers)
 print("Smallest number: ", minimV)
 print("Biggest number: ", maximV)
+
