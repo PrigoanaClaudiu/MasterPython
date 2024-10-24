@@ -1,0 +1,5 @@
+string manipulation -> string operations + string format
+
+palindrome -> l[::-1]
+
+to return a string without something -> create a list only with correct chr and then transform it in a string
